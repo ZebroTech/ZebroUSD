@@ -2,3 +2,5 @@
 
 # ZebroUSD
 ZebroUSD ZUSD Multi-chian stable token
+
+Licensed under MIT opensource lincense.
