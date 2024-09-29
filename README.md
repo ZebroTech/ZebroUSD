@@ -4,6 +4,7 @@
 ZebroUSD ZUSD Multi-chian stable token
 
 ## Token Chains
+Zebro Smart Chain ZBR20: https://explorer1.zebrocoin.app/token/0x1DAB795879D52778302D22a52cf0107530cBf916<br />
 Binance Smart Chain BEP20: https://bscscan.com/token/0x9d30f25cffdc0e095058d7b11b0209ab53a6cddc<br />
 Matic/Polygon Chain: https://polygonscan.com/token/0x9bec8bda57b82e070173c0a91c6dd288e5f6eeaf<br />
 Fantom Opera Chain: https://ftmscan.com/token/0xC9Df3Db3e68cc73A126D6F3637C19d7204456Bc2<br />
@@ -11,7 +12,7 @@ Phoenix Chain ERC20: https://phoenixplorer.com/token/0x6ea214917F28AD147E01201Cd
 EtherGem Chain: https://blockscout.egem.io/token/0x42cc674AC0B1dA3A8004405fDB51b6633C8C57a2<br />
 
 ## Websites
-https://zebrocoin.info/zusd/<br />
+https://zebrocoin.app/zusd/<br />
 
 ## Announcements
 BitcoinTalk: https://bitcointalk.org/index.php?topic=5357796
